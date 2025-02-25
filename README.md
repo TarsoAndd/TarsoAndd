@@ -34,10 +34,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Coding Python](https://replit.com/repls/folder/python)
-- [Exploring HTML](https://replit.com/repls/folder/html2)
+- [Coding Python](https://github.com/t4rsss/Nimal_Research)
+- [Exploring HTML](https://github.com/t4rsss/ClickerGame)
 - [First Work WordPress](https://doutoraclaudiapsi.com/)
-- [Learning C](https://replit.com/repls/folder/c2)
+- [Learning C](https://github.com/t4rsss/rosquinha)
 
 <!-- GIF -->
 <p align="center">
