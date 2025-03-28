@@ -32,13 +32,6 @@
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=t4rsss&show_icons=true&theme=gotham)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Coding Python](https://github.com/t4rsss/Nimal_Research)
-- [Exploring HTML](https://github.com/t4rsss/ClickerGame)
-- [First Work WordPress](https://doutoraclaudiapsi.com/)
-- [Learning C](https://github.com/t4rsss/rosquinha)
-
 <!-- GIF -->
 <p align="center">
   <img align="center" width="100px" height="100px" src="https://64.media.tumblr.com/235f15252a4a7bb967f8dd96322278b6/tumblr_ndq6dfxt761tfnou3o1_r1_540.gif" alt="Imagem">
