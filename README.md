@@ -1,11 +1,3 @@
-<p align="center">
-  <img  align="center" width="100px"  src="https://gifdb.com/images/high/pixelated-cloud-rain-falling-mwk3rxzwj9gfse83.gif" alt="Imagem"> <img  align="center" width="100px"  src="https://gifdb.com/images/high/pixelated-cloud-rain-falling-mwk3rxzwj9gfse83.gif" alt="Imagem"> <img  align="center" width="100px"  src="https://gifdb.com/images/high/pixelated-cloud-rain-falling-mwk3rxzwj9gfse83.gif" alt="Imagem">
-</p>
-  
-</p>
- 
-##
-<!--título-->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=808080&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Tarso;I'm+a+Dev+from+Brazil;welcome%3A)](https://git.io/typing-svg)
